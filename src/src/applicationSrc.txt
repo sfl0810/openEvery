@@ -1,0 +1,3 @@
+"C:\Program Files\Mozilla Firefox\firefox.exe"
+"D:\桌面\文件\扫雷\扫雷\Minesweeper.exe"
+"D:\HornilStylePix\StylePix\StylePix.exe"
